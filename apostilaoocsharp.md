@@ -1,5 +1,5 @@
 # Apostila — Programação Orientada a Objetos com C#
-## Construindo um Sistema Bancário do zero até uma API com banco de dados
+## Construindo um Sistema Bancário do zero até uma API com banco de dados SQL, essa apostila nao tem exemplos ou interacoes com bancos de dados NOSQL
 
 > **Projeto de apoio:** [meu-projeto-dotnet](https://github.com/fabioBaraDev/meu-projeto-dotnet)
 > **Público:** aluno que já conhece variáveis, contexto/escopo, classes e métodos.
